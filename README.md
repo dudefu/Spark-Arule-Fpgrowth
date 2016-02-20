@@ -17,6 +17,6 @@ Getting started:
 
 4.Create a jar from export options and run the jar in cluster or in VM
 
-Spark-submit --class main.scala.TweetMain
+Spark-submit --class main.scala.AssociationMain
 
 5.Have fun with Spark!!!!!!!
