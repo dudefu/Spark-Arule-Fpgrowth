@@ -12,7 +12,6 @@ import org.apache.spark.mllib.fpm.FPGrowth.FreqItemset
 import org.apache.spark.mllib.fpm.FPGrowth
 import org.apache.spark.mllib.fpm.FPGrowthModel
 
-/*Code developed and updated from https://github.com/shashir/spark-apriori */
 
 object AssociationMain {
 
